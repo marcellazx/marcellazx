@@ -13,7 +13,7 @@
 - Desenvolvimento Web (Frontend e Backend)
 
 ## 📫 Como me achar:
-- [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav))
+- [LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
 - [GitHub](https://github.com/marcellazx)
 - [Email](marcella.ribeiro2005@gmail.com)
 
